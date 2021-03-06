@@ -12,6 +12,11 @@
         text-transform: uppercase;
         border: none;
 
+        &.actual {
+            background-color: $azul;
+            color: $blanco;
+        }
+
         &:hover {
             cursor: pointer;
         }
