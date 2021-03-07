@@ -11,6 +11,7 @@
         font-weight: $bold;
         text-transform: uppercase;
         border: none;
+        border-radius: .3rem;
 
         &.actual {
             background-color: $azul;
